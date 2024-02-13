@@ -1,16 +1,3 @@
-Table Name - Total Number of Records
-Queries - 
-	1. CREATE DATABASE and TABLE
-	2. INSERT THE DATA INSIDE THE TABLE
-	3. COUNT THE TOTAL NUMBER OF RECORDS INSIDE THE TABLE
-
-1. customer_test - 301
-2. individual_test - 300
-3. ccard - 311
-4. store - 701
-5. salesterritory - 10
-6. salesperson - 17
-7. salesorderheader - 1076
-8. salesorderdetail - 2410
-9. specialoffer - 16
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ddfd911fdfba1e262184c8f5c1d99330df31d40d3d754bc467e6025c58c0d5d
+size 384

@@ -1,9 +1,3 @@
-CREATE EXTERNAL TABLE IF NOT EXISTS country_table_dezyre(
-`country_code` string,
-`country_name` string,
-`country_total_deaths` int,
-`extracted_timestamp` string )
-ROW FORMAT DELIMITED
-FIELDS TERMINATED BY ','
-STORED AS TEXTFILE
-location '/dezyre_data/dezyre_kafka_out';
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a633a80247dbf05af8e72d6e76ca76d5a67b1038d03938f7a8176a73ab9728f
+size 279

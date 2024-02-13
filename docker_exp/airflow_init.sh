@@ -1,3 +1,3 @@
-mkdir ./dags ./logs ./plugins
-echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0"> .env
-docker-compose up airflow-init
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d490a75db8e458f43cb2edacba1743b1832cd7ecc7679a0ef95b4847b67f5c7
+size 112
